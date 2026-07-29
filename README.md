@@ -5,7 +5,7 @@ A production-grade, full-stack Stellar Testnet dApp utilizing decentralized WebA
 ---
 
 ## 🚀 Live Implementation Profiles
-- **Developer Profile:** Jerome Onoja ([@jerryidoko](https://github.com/jerryidoko))
+- **Developer Profile:** Peniel Samuel ([@Penielka](https://github.com/Penielka))
 - **Repository Track:** `stellar-yellow-belt-poll`
 - **Target Network Environment:** Stellar Testnet
 
@@ -42,7 +42,7 @@ A production-grade, full-stack Stellar Testnet dApp utilizing decentralized WebA
 
 1. **Clone & Target Workspace:**
 ```bash
-   git clone https://github.com/jerryidoko/stellar-yellow-belt-poll.git
+   git clone https://github.com/Penielka/stellar-yellow-belt-poll.git
    cd stellar-yellow-belt-poll
 ```
 
